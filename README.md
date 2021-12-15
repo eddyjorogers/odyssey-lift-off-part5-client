@@ -1,3 +1,9 @@
+# Eddy's Prod URL
+https://client-catstronauts-youngoose.herokuapp.com
+
+# Eddy's Certification
+https://odyssey.apollographql.com/certifications/9f5a8461-f048-49c3-9ee9-218130672660
+
 # Odyssey Lift-off V (Client): Road to production
 
 Welcome to the companion app of Odyssey Lift-off V (client)! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part5), Apollo's learning platform.
